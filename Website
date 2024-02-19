@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ICS 10</title>
+</head>
+<style>
+body {background-color: lightyellow;}
+
+h1 {color: brown; text-align: center;}
+h3 {color: Green; text-align: center;}
+p3 {color: Green;}
+h4 {color: darkgreen; text-align: center;}
+p4 {color: darkgreen;}
+</style>
+<body>
+
+<h1>How to Make Banana Bread!</h1>
+<h2>Ingredients:</h2>
+<p>- 3 ripes bananas.</p>
+<p>- 2 eggs.</p>
+<p>- 2 cups flour.</p>
+<p>- 3/4 cups sugar.</p>
+<p>- 1 tsp salt.</p>
+<p>- 1 tsp baking soda.</p>
+<p>- 1/2 cup walnuts.</p>
+<p>- 1/3 cup butter</p>
+
+<img src="https://www.readyseteat.com/sites/g/files/qyyrlu501/files/uploadedImages/img_3404_1562.JPEG">
+
+</body>
+</html>
+
+<div class="myDiv">
+  <h2>Method:</h2>
+  <p>1. Preheat oven to 350°F</p>
+  <p>2. Mash the bananas and butter with a fork</p>
+  <img src="https://www.simplyrecipes.com/thmb/HcfcHz1ESHgskn3lAIXaHlXcdUc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Easy-Banana-Bread-METHOD-1-8c3b632837ae49cfa57f1d49912d1271.jpg">
+  <p>3. Add sugar, flour, eggs, salt, walnuts, and baking soda to mix</p>
+  <img src="https://www.simplyrecipes.com/thmb/HLxDnMw3m0LDl3JHYiIYIoHZcd4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Easy-Banana-Bread-METHOD-3-32fe590df70d4e1bb7a77aea94bd30e9.jpg">
+  <p>4. Pour batter into loaf pan</p>
+  <img src="https://www.simplyrecipes.com/thmb/oLlmPIdGr9sXTSKvrxCwSW1fy1A=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Easy-Banana-Bread-METHOD-5-a9a9c4e47f7a46e2adbf3b423606604a.jpg">
+  <p>5. Bake for 60 mins</p>
+  <p>5. Cool and serve</p>
+  <img src="https://www.simplyrecipes.com/thmb/yi3TqmNfRCTQgO8tKNxDvi8QE5g=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Easy-Banana-Bread-METHOD-6-2e03de4b1a32468c84e8ecc491c267ef.jpg">
+</div>
+<div class="myDiv">
+  <h3>______________________Adapt Recipe to Liking:_________________</h3>
+  <p3>- Add 1 teaspoon of cinnamon</p>
+  <p3>- Add 1 teaspoon vanilla extract</p>
+  <p3>- Add 1/2 cup chocolate chips</p>
+  <h3>____________________________________________________________</p>
+ 
+ </div>
+ <div class="myDiv">
+  <h4>Nutrition Facts</h4>
+  <p4>- 220 calories</p>
+  <p4>- 7g Fat</p>
+  <p4>- 37g carbs</p>
+  <p4>- 3g protein</p>
+  
+<h1>Enjoy! :)</h1>
+<marquee>
+<img src="https://cdn-icons-png.flaticon.com/256/6439/6439929.png">
+</marquee>
